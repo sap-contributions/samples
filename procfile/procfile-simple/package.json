@@ -1,0 +1,16 @@
+{
+  "author": "Paketo Buildpacks",
+  "dependencies": {
+  },
+  "description": "Simple Node.js Application using NPM",
+  "license": "Apache-2.0",
+  "name": "sample",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paketo-buildpacks/samples"
+  },
+  "scripts": {
+    "start": "echo \"doing nothing\""
+  },
+  "version": "0.0.0"
+}
